@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "football-421401",
+  "private_key_id": "f77b9efcb3c361d2bebfc7736d43c1f886c7f8a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCv4M40SaMdOKsw\nNaIiNUEIwQQborU7MLHVYuBoo/YwhnL6HWhYO+g2C8AEZm0qrb4SuzOGbokPw0E9\nOH9xF2NY8YQWNwH2PewASc9wap0ap8NqnA0F/8flT48Tf6kXMkeXg9VVX6OBlpkD\njYLGFlqCzhb/eMAQswN/513Tu7j2/jPgnAIctYmrylp6cdPdFm9aPmzNS59avqgv\nr9St6W5uIUSH40QakZehjx/2m+MXIRYEa2QhpPXjINT0QHOqKng+ycNz1vo3OBHy\nGCg0l7Jg3TZGTaSNxxzxRq4HNd+sBbW+oDNpAHQTQJM/6ekW2WuKTgjqgJAjjsBV\nIkE8CoV/AgMBAAECggEACLl7ISbh+4obG9odP9sqbbe9b22D1frVZ4NvJGG1zbRt\nsbCRw4a9PykYDl/SXIKf4if9J1cGX4zNCK9ryv1hBUF9zuhNpZxuv5jpvGbdgjv+\nOqShFMIadWqb61iy15675G06wPBsmPoSfxWe/hqPxNtaUrP3uxxWORsOEXnHdCEU\n4+HW0Rm90N9GV9Ipe32xba0C9M8zAr5ayzSldV6CTgddSqo++8OD4bLzSmbO5Fc2\npizTIVgoaAtKYnxiNEAzGn6ak+j7N+uer6qvE8WCYr7/va4+ZEmD6zulcuwvxhC9\n5UPF2UUnPH42wj41TPkJ/3gjOfhMv/2orY65vxe4aQKBgQDqUOP1Ag1T1L+6Y8Lc\nv9M+W8wbhibWgnO+UbbYJKlNSmB6ZN/wLdxK2LXsb4i74FV9sBRdVWTCgRDEauBZ\nhdGJAF2t2yE/+9G40oHnG6uK6+aM0+D3SVWW0lOwsrz+l4Qhr3suzGhsE4fCpuUq\nn7tAWh2dzktMsgOUO/V1xew8mwKBgQDAJ3tczH+BdzOicYPyVpMz4OHtmdBOKiid\n/dRlgIMqyG9Xj3s0lVc6Qzs9V9Ht4D8JOBynB9aLZ3D3Ru7P/jP5qYnYIoxgUB9Z\n42WIAr+6xMfZWWKDVU1dHVRsFFLeiljKoQGnDyrt9lDaAtq66FOPY/4f0k3Gc8uI\ncv3Ck9je7QKBgQC5XcDY5QSyGw6KX72acU6meGyiIaC79numRnLFz0r4UCy+5uqZ\n0U4DECnrn9il+LTpN9EEfTe2/+/J01skt06qeVWi4kYNniOteSs3L5an0jOTmVLR\njnxdUorOsLf/GNJ466Ahx6ecSF8QSIPnEnJKWIAxhS/gvrtCG6T1xNw8nQKBgQCs\nvpHLolh6ZlQ4FD7fjO8281OIy/+VVZdAOaJJQdgpjRlzqRzE8AED8s793cZvSGrC\n+fvgOU6p8mt/Efi9abUGHGE8ugpix4T3xVNQi9Absq5LemzyzqwHKsfrhfXd9JfQ\nSiB3NE6OsSKMa4aCAzyjquwZZXHgF9eBKodw9oNAHQKBgQCW+3f+jt6XJ5Y76Z2U\nFopdzj2t02YUAXp7Bdwn/881R3xto1T18PhQykfr1EHUJHfuA3Y1v4wEZWmxd4yP\nnPAgF5HAB4qvh9Gbevw0j3PLTCHKqVq5vd9AW62cQO6dkHqZiWmxSDX32YUWTiXW\nRqokSnpve45tMjK7Dg/oyTTLDQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "footballp3@football-421401.iam.gserviceaccount.com",
+  "client_id": "110330598939945490270",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/footballp3%40football-421401.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

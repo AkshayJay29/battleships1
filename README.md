@@ -6,7 +6,7 @@
 
 
 
-Welcome to my third project in form of a simple battleship game which has been developed using python programming language and can run on Heroku terminal. The main goal of the player is to attempt winning computer by being the first to find out all battleships.
+Welcome to my third project in form of a simple battleship game which has been developed using python programming language and can run on Heroku terminal. The main goal of the player is to attempt winning against computer by being the first to find out all battleships.
 
 
 

@@ -14,13 +14,13 @@ EDIT
 
 
 
-A live version of the game can be found [here](https://ms3-battleship.herokuapp.com/).
+A live version of the game can be found [here](https://battleshipsco-5c6fdaa9c09d.herokuapp.com/).
 
 
 
 
 
-![project preview](documentation_assets/images/finished_screenshot.png)
+![project preview](README.file/finished_screenshot.png)
 
 
 
@@ -83,7 +83,7 @@ Below is a diagram showing the logic and possibilities for this game.
 
 
 
-![project diagram](documentation_assets/images/battleships_diagram.png)
+![project diagram](README.file/battleships_diagram.png)
 
 
 
@@ -109,21 +109,13 @@ The user enters a value 0-7 which marks ships on the board. Eight guesses are al
 
  - Multiple battleships - each opponent has 3 ships to guess
 
-
-
-![game_start_terminal](documentation_assets/images/game_start_terminal.png)
-
-
+![game_start_terminal](README.file/game_start_terminal.png)
 
 - Play against the computer, the computer will automatically return with a guess after the users guess
 
 - Accepts user input
 
-
-
-
-
-![game_turn1](documentation_assets/images/game_turn1.png)
+![game_turn1](README.file/game_turn1.png)
 
 
 
@@ -131,15 +123,15 @@ The user enters a value 0-7 which marks ships on the board. Eight guesses are al
 
     - You can only enter numbers/integers
 
-    ![string_values_entered](documentation_assets/images/input_validation_string.png)
+    ![string_values_entered](README.file/input_validation_string.png)
 
     - Error message when user enters a value that is not in range
 
-    ![guess_coordinates_out_of_range](documentation_assets/images/guess_value_out_of_range.png)
+    ![guess_coordinates_out_of_range](README.file/guess_value_out_of_range.png)
 
     - Error message when user enters the same coordinates repeatedly
 
-    ![guess_repeat_coordinates](documentation_assets/images/guess_repeat_coordinates.png)
+    ![guess_repeat_coordinates](README.file/guess_repeat_coordinates.png)
 
 ### Future Features
 
@@ -181,13 +173,13 @@ I have manually tested this project by the following:
 
 I ran the code through the PEP8 validator. I initially ran into a few issues, as you can see in the image below:
 
-[![python_validator_errors](documentation_assets/images/python_validator_errors.png)](documentation_assets/images/python_validator_errors.png)
+[![python_validator_errors](documentation_assets/images/python_validator_errors.png)](README.file/python_validator_errors.png)
 
 
 
 However, these issues were rectified by adding white spaces around operators and starting new lines of code as the line was too long. 
 
-[![python_validator_errors](documentation_assets/images/pep8_no_errors.png)](documentation_assets/images/pep8_no_errors.png)
+[![python_validator_errors](documentation_assets/images/pep8_no_errors.png)](README.file/pep8_no_errors.png)
 
 
 
@@ -237,31 +229,31 @@ Please find below some screenshots of the finished project:
 
 User misses shot:
 
-![user missed shot](documentation_assets/images/user_missed.png)
+![user missed shot](README.file/user_missed.png)
 
 
 
 Computer misses shot:
 
-![cpu missed shot](documentation_assets/images/cpu_missed.png)
+![cpu missed shot](README.file/cpu_missed.png)
 
 
 
 User sunk first CPU ship:
 
-![user guessed first ship](documentation_assets/images/user_guessed_first_ship.png)
+![user guessed first ship](README.file/user_guessed_first_ship.png)
 
 
 
 Too many incorrect guesses:
 
-![too many incorrect guesses](documentation_assets/images/game_over_incorrect_guesses.png)
+![too many incorrect guesses](README.file/game_over_incorrect_guesses.png)
 
 
 
 User wins game:
 
-![user wins game](documentation_assets/images/game_win.png)
+![user wins game](README.file/game_win.png)
 
 
 
